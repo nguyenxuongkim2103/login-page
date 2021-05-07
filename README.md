@@ -14,7 +14,7 @@ This is just an example application.
 
 ### Screen Shots
 <div style="display: inline">
-  <img src="login-page.GIF" width="600" title="React List Component">
+  <img src="login-page.gif" width="600" title="React List Component">
 <div/>
 
 ### Building the Application
