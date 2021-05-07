@@ -19,7 +19,7 @@ This is just an example application.
 
 ### Building the Application
 
-Start build the application by using command:
+Start building the application by using command:
 
 ```
 npm start
