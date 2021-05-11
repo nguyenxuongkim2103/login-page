@@ -1,4 +1,4 @@
-# A Dummy Login Page in ReactJS
+# A Dummy Typical Login Page in ReactJS
 
 
 
